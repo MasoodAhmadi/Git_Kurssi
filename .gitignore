@@ -1,4 +1,4 @@
 # Ignore the following files
-hdxer.in
-ljhqn.pyc
-ouowa.out
+*.in
+*.pyc
+*.out
